@@ -1,0 +1,5 @@
+steps:
+--------
+1. write
+2. read
+3. delete
